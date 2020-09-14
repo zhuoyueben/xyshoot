@@ -1,6 +1,6 @@
 <html>
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+  <meta http-equiv="Content-Type" content="text/html; charset=gbk">
   <title>jenbins实例</title>
 </head>
 <body>
