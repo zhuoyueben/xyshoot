@@ -1,11 +1,13 @@
+<%@ page language="java" contentType="text/html; charset=GB18030"
+         pageEncoding="GB18030"%>
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=gbk">
-  <title>jenbins瀹炰緥</title>
+  <title>jenbins实例</title>
 </head>
 <body>
 
 <h2>Hello World!</h2><br>
-<a  href="www.baidu.com">鐧惧害閾炬帴</a>
+<a  href="www.baidu.com">百度链接</a>
 </body>
 </html>
